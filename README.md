@@ -2,4 +2,5 @@
 Accepted solutions of Codeforces Problems
 
 # Useful Links
-1. [Codeforces Deltix Round Blog Entries](https://codeforces.com/blog/deltixlab)
+* [Codeforces Deltix Round Blog Entries](https://codeforces.com/blog/deltixlab)
+* [The Ultimate Topic List](https://codeforces.com/blog/entry/95106)

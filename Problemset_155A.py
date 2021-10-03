@@ -7,6 +7,7 @@ minm = 10000
 
 count = 0
 
+# different logic needed
 for i in range(1, n):
     if array[i] > maxm:
         maxm = array[i]
